@@ -5,6 +5,7 @@ class SpeechAudio:
         self.text = None
     
     def interpret(self):
+        print(self.audio_file)
         pass # interpret the speech here
     
     @property
