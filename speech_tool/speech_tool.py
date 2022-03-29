@@ -1,5 +1,6 @@
 from collections import deque
 from factory import SpeechAudio
+import speech_recognition as sr
 import threading
 
 
